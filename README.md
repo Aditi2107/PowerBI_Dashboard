@@ -3,13 +3,13 @@ Creating Interactive Dashboard of Madhav E-Commerce Store
 
 ## **Project Objective**
 
-The owner of the **Madhav E-Commerce Store** wants us to create an <a href="https://github.com/Krishnkumar542/Interactive-Dashboard-Creation-Using-Power-BI/blob/main/Madhav%20Store%20Ecommerce%20Dashboard.png">interactive dashboard</a> to track and analyze their online sales across India.
+The owner of the **Madhav E-Commerce Store** wants us to create an <a href="https://github.com/user-attachments/assets/7bc2da85-d737-40c8-81be-1584b43567f9">interactive dashboard</a> to track and analyze their online sales across India.
 
 
 ## **Dataset used**
 
-- <a href="https://github.com/Krishnkumar542/Interactive-Dashboard-Creation-Using-Power-BI/blob/main/Details.csv">Details</a>
-- <a href="https://github.com/Krishnkumar542/Interactive-Dashboard-Creation-Using-Power-BI/blob/main/Orders.csv">Orders</a>
+- <a href="https://github.com/user-attachments/files/16473867/Details.csv">Details</a>
+- <a href="https://github.com/user-attachments/files/16473863/orders.csv">Orders</a>
 
 
 ## **Questions (KPIs)**
@@ -24,14 +24,14 @@ The owner of the **Madhav E-Commerce Store** wants us to create an <a href="http
 
 ## **Process**
 
-- Created an <a href="https://github.com/Krishnkumar542/Interactive-Dashboard-Creation-Using-Power-BI/blob/main/Madhav%20Store%20Ecommerce%20Dashboard.png">interactive dashboard</a> to track and analyze online sales data.
+- Created an <a href="https://github.com/user-attachments/assets/7bc2da85-d737-40c8-81be-1584b43567f9">interactive dashboard</a> to track and analyze online sales data.
 - Used complex parameters to drill down in worksheets and customization using filters and slicers.
 - Created connections, join new tables, and calculations to manipulate data and enable user-driven parameters for visualizations.
 - Used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc).
 
 ## **Dashboard**
 
-![Alt text of the image](https://github.com/Krishnkumar542/Interactive-Dashboard-Creation-Using-Power-BI/blob/main/Madhav%20Store%20Ecommerce%20Dashboard.png)
+![Screenshot 2024-03-17 021359](https://github.com/user-attachments/assets/7bc2da85-d737-40c8-81be-1584b43567f9)
 
 ## **Project Insight**
 
